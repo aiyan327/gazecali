@@ -10,6 +10,8 @@ from sklearn.preprocessing import PolynomialFeatures
 from sklearn.metrics import mean_squared_error, r2_score
 from operator import itemgetter 
 
+# just a test 
+
 # to smooth the data
 def movAvg(X, window):
     newX = X
